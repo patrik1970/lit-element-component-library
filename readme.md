@@ -1,4 +1,4 @@
-# Lit Element Component Library
+# Lit Element Simple Component Library
 
 This is an application build with LitElement, Webpack, Javascript and html.
 
