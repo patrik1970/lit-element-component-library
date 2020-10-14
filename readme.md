@@ -2,7 +2,7 @@
 
 This is an application build with LitElement, Webpack, and html.
 
-Start 
+## Start 
 npm install
 npm run dev
 look at http://localhost:8080/
