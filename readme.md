@@ -3,8 +3,8 @@
 This is an application build with LitElement, Webpack, Javascript and html.
 
 ## Start 
-#npm install
+npm install
 
-#npm run dev
+npm run dev
 
-#look at http://localhost:8080/
+look at http://localhost:8080/
