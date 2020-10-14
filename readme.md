@@ -1,10 +1,17 @@
-# LitElement Component Library
+# Lit Element Component Library
 
 This is an application build with LitElement, Webpack, Javascript and html.
 
-## Start 
-npm install
+## Getting Started
 
-npm run dev
+To get started, first install all the necessary dependencies.
+```
+> npm install
+```
 
-look at http://localhost:8080/
+Run an initial webpack build.
+```
+> npm run dev
+```
+
+To view your project, go to: [http://localhost:8000/](http://localhost:8000/)
