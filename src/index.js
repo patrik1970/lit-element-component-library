@@ -1,4 +1,3 @@
 import './styles.css';
-import'./components/my-component.js';
-import'./components/simple-greeting.js';
-import'./components/simple-button.js';
+import'./components/simple-primary-button.js';
+import'./components/simple-secondary-button.js';

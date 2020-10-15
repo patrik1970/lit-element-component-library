@@ -6,17 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Component Library</title>
 
-    <!-- <link rel="icon" type="image/png" href="./img/icons/favicon.png" />-->
-
-    <!-- <meta name="theme-color" content="#2A3443" />
-    <meta name="description" content="Tutorial app." /> -->
-
-    <!-- iOS -->
-    <!-- <link rel="apple-touch-icon" href="./img/icons/icon-144x144.png" />
-    <meta name="mobile-web-app-capable" content="yes" />
-    <meta name="mobile-web-app-status-bar-style" content="black" />
-    <meta name="mobile-web-app-title" content="TutorialApp" /> -->
-
     <script>
       if (!window.customElements) {
         document.write('<!--');
@@ -30,9 +19,18 @@
     <header><h1>Component Library</h1></header>
 
     <main>
-      <my-component></my-component>
-      <simple-greeting name="Everyone"></simple-greeting>
-      <simple-button></simple-button>
+      <h3>Some Simple Buttons</h3>
+      <p>This are some simple primary buttons with onclick</p>
+      <simple-primary-button buttonColor="red"></simple-primary-button>
+      <simple-primary-button buttonColor="#3AC5D2"></simple-primary-button>
+      <simple-primary-button buttonColor="green"></simple-primary-button>
+      <simple-primary-button buttonColor="black"></simple-primary-button>
+
+      <p>This are some simple secondary buttons with onclick</p>
+      <simple-secondary-button textColor="red"></simple-secondary-button>
+      <simple-secondary-button textColor="#3AC5D2"></simple-secondary-button>
+      <simple-secondary-button textColor="green"></simple-secondary-button>
+      <simple-secondary-button textColor="black"></simple-secondary-button>
     </main>
     <script src="./vendor/webcomponents-loader.js"></script>
   </body>
