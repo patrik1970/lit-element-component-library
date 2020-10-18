@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patrik1970/lit-element-component-library.git"
+    "url": "git+https://github.com/patrik1970/lit-element-component-js-library.git"
   },
   "keywords": [],
   "author": "",
   "license": "",
   "bugs": {
-    "url": "https://github.com/patrik1970/lit-element-component-library/issues"
+    "url": "https://github.com/patrik1970/lit-element-component-js-library/issues"
   },
   "homepage": "",
   "devDependencies": {
