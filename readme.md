@@ -14,7 +14,7 @@ Run an initial webpack build.
 > npm run dev
 ```
 
-To view your project, go to: [http://localhost:8000/](http://localhost:8000/)
+To view your project, go to: [http://localhost:8000/](http://localhost:8000/) or [http://localhost:8080/](http://localhost:8080/)
 
 ## For production
 
