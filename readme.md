@@ -15,3 +15,8 @@ Run an initial webpack build.
 ```
 
 To view your project, go to: [http://localhost:8000/](http://localhost:8000/)
+
+To build a distfolder for production.
+```
+> npm prod
+```
