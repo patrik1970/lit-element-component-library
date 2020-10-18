@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patrik1970/lit-element-component-js-library.git"
+    "url": "git+https://github.com/patrik1970/lit-element-js-component-library.git"
   },
   "keywords": [],
   "author": "",
   "license": "",
   "bugs": {
-    "url": "https://github.com/patrik1970/lit-element-component-js-library/issues"
+    "url": "https://github.com/patrik1970/lit-element-js-component-library/issues"
   },
   "homepage": "",
   "devDependencies": {
@@ -41,6 +41,7 @@
   },
   "dependencies": {
     "@webcomponents/webcomponentsjs": "^2.1.3",
-    "lit-element": "^2.4.0"
+    "lit-element": "^2.4.0",
+    "npm": "^6.14.8"
   }
 }
