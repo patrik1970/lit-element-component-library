@@ -2,7 +2,7 @@
 
 This is an application build with LitElement, Webpack, Javascript and html.
 
-## Getting Started
+## Getting started
 
 To get started, first install all the necessary dependencies.
 ```
@@ -16,6 +16,7 @@ Run an initial webpack build.
 
 To view your project, go to: [http://localhost:8000/](http://localhost:8000/)
 
+## For production
 
 To build a distfolder for production.
 ```
