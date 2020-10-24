@@ -1,8 +1,8 @@
 # LitElement Simple Component Library
 
-This is an application build with LitElement, Webcomponents, Webpack, Javascript, HTML5 and CSS3.
+This is an application build with LitElement, Webpack, Javascript and html.
 
-## Getting started
+## Getting Started
 
 To get started, first install all the necessary dependencies.
 ```
